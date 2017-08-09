@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Катерина Лещинская](https://up.htmlacademy.ru/htmlcss/18/user/108571).
+* Наставник: [Вячеслав Афонасьев](https://up.htmlacademy.ru/htmlcss/18/user/243797).
 
 ---
 
